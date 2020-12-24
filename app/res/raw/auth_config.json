@@ -1,0 +1,11 @@
+{
+  "client_id": "evizi",
+  "redirect_uri": "com.lifesite.evizi://oauth2client",
+  "authorization_scope": "openid offline",
+  "discovery_uri": "https://id.lifesitevault.com/.well-known/openid-configuration",
+  "authorization_endpoint_uri": "https://id.lifesitevault.com/",
+  "token_endpoint_uri": "https://id.lifesitevault.com/",
+  "registration_endpoint_uri": "https://id.lifesitevault.com/",
+  "user_info_endpoint_uri": "https://id.lifesitevault.com/",
+  "https_required": true
+}
